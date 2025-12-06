@@ -1,4 +1,4 @@
-# Human-in-the-Loop AI Assistant - Complete Documentation# AI Salon Assistant - Complete Documentation# Project virtual environment
+# Human-in-the-Loop AI Assistant - Complete Documentation
 
 
 
